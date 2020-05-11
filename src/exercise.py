@@ -3,9 +3,9 @@ def main():
     first = input("Greetings! How are you doing?")
     second =input("Oh, how interesting. Tell me more!")
     thrid = "Thanks for sharing!"
-
-    (first)
-    (second)
+    
+    print (first)
+    print (second)
     print (thrid)
 
 if __name__ == '__main__':
